@@ -1,0 +1,7 @@
+var Mobile = 
+    {
+      type:"iphone",
+      model:"XS",
+      color:"black"
+    }
+document.write(Mobile["type"]);
